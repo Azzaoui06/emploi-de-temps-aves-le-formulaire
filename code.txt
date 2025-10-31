@@ -1,0 +1,175 @@
+<html>
+  <body>
+        
+
+    <img src="yassin.jpg" width=250px ;alt="yassin.jpg" style="transform: translate(200px, 0px); width:300px;" ></div>
+<img src="esmail.jpg" width=250px style="transform: translate(450px, 0px); width:300px; ">
+
+    <br><div
+    style="height: 2px; width: 800px; background-color: black;"></div>
+     </br>
+     <br>
+    <div style="text-align: center;transform: translate(00px, 0px);">
+      <p>CS – S3 </p>
+    <table >
+      <table border="4"style="margin: auto; border: 4px solid black;">
+      
+    
+      
+            
+        
+      <tr>
+                <td></td>
+                <td style="background-color:#5DA5E0 ;">9h00-10h30</td>
+                <td style="background-color:#5DA5E0 ;">10h35-12h05</td>
+                <td style="background-color:#5DA5E0 ;">12h15-13h45</td>
+                <td style="background-color:#5DA5E0 ;">13h50-15h20</td>
+                <td style="background-color:#5DA5E0 ;">15h30-17h00</td>
+                <td style="background-color:#5DA5E0 ;">17h05-18h35</td>
+                
+      </tr>
+      <tr>
+              
+<td style="background-color:#BCCDCE ;transform: rotate(0deg);">
+<div style="transform: rotate(90deg);"> Lundi    </div>
+</td>
+
+</td>
+                <td>Sécurité Système 
+                    <br> Salle 1 </br>
+                                        pr. R. Dakir
+                </td>
+                  <td>Sécurité Système 
+                    <br> Salle 1 </br>
+                    pr. R. Dakir</td>
+                <td></td>
+                <td>Systèmes et 
+                    <br>Réseaux III Salle 1</br> 
+                   Pr. R. Dakir</td>
+                <td>Systèmes et 
+                    <br>Réseaux III Salle 1</br> 
+                   Pr. R. Dakir<</td>
+                <td></td>  
+
+      </tr>
+<td style="background-color:#BCCDCE ;transform: rotate(0deg);">
+
+<div style="transform: rotate(90deg);"> mardi    </div>
+
+
+
+</td>                <td>LE – Français 
+                    <br>Salle 1 </br>
+                    Pr. D. Ahajji </td>
+                <td>Développement 
+                   <br>logiciel</br> 
+                   <br> Salle 1</br> 
+                   <br>Pr. Y. Chawki</br> </td>
+                <td>Développement 
+                  <br>logiciel</br> 
+                  <br> Salle 1</br> 
+                  <br>Pr. Y. Chawki</br></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                
+      <tr>
+                
+      </tr>
+<td style="background-color:#BCCDCE ;transform: rotate(0deg);">
+
+<div style="transform: rotate(90deg);"> mercerdi   </div>
+
+
+
+</td>                <td><br><br></br></br></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>  
+      <tr>
+<td style="background-color:#BCCDCE ;transform: rotate(0deg);">
+
+<div style="transform: rotate(90deg);"> jeudi  </div>
+
+
+
+</td>                <td></td>
+                <td></td>
+                <td>POO  
+                     <br>Salle 1</br> 
+                   Pr. ??  </td>
+                <td>POO  
+                     <br>Salle 1</br> 
+                   Pr. ?? </td>
+                <td></td>
+                <td></td>  
+      </tr>
+      <tr>
+<td style="background-color:#BCCDCE ;transform: rotate(0deg);">
+
+<div style="transform: rotate(90deg);"> vendredi   </div>
+
+
+
+</td>                <td></td>
+                <td></td>
+                <td></td>
+                <td
+                  <td style="background-color: black; color: white;" >
+                </td>
+                <td>Management 3 
+                      <br>Salle 1 </br>
+                     <br>Pr. Hangour </br></td>
+                <td>Management 3
+                      <br>Salle 1 </br>
+                     <br>Pr. Hangour </br>
+                      
+      </tr>
+      <tr>
+<td style="background-color:#BCCDCE ;transform: rotate(0deg);">
+
+<div style="transform: rotate(90deg);"> samedi  </div>
+
+
+
+</td>                <td>Technologie web  
+                     <br>Salle 1</br> 
+                    Pr. O. Kamal </td>
+                <td>echnologie web  
+                     <br>Salle 1</br> 
+                    Pr. O. Kamal </td>
+
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td> 
+      </tr>
+      
+                  
+    </table>
+    <div style="position: relative; top: 20px; left: 220px; background: lightblue;">
+  
+
+    <table> 
+          <div style="position: relative; top: 6px; left: 200px; background: lightblue;">
+
+      <tr>
+                <td style="background-color: red;float:right:"
+                >Horaire de  vendred 
+              
+                <td style="background-color:#EFC3CA">8h30-10h00 </td>
+                <td style="background-color:#EFC3CA">10h00 - 11h30 </td>
+                <td style="background-color: black; color: white;" >
+                    <td style="background-color:#49EF07">11h30 - 13h00 </td>
+                    <td style="background-color:#BEC667">15h15 - 16h45 </td>
+                <td style="background-color:#BEC667">16h50 - 18h20</td>
+                 
+                
+      </tr>
+    </table>
+  </div>
+  </div>
+  </body>
+</html>
